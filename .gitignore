@@ -1,2 +1,5 @@
 *.csv
 *.py
+*.ipynb_checkpoints
+*.py
+*_modules
